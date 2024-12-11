@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Creating genres and authors
+
         Genre pop = new Genre("POP");
         Author cleanBandit = new Author("Clean", "Bandit");
         Author kavinsky = new Author("Kavinsky", "Kavinsky");
